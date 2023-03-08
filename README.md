@@ -8,6 +8,8 @@
 
 * Laid ground work to switch from analog to digital communication. The Bell phone systems' analog communications were degraded when sent over long distances and noise was amplified by repeaters. By switching to digital, Bell implemented a type of digital repeater that reduced degradation of signal, reducing loss, and improving communication. 
 
+* Shannon Capacity: the fundamental limit of information that can be sent across a medium
+
 * Shannon entropy or level of surprise in a message/communication
 
 ## Shannon works
