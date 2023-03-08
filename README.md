@@ -17,3 +17,19 @@
 * A symbolic analysis of relay and switching circuits (https://dspace.mit.edu/handle/1721.1/11173)
 * Communication Theory of Secrecy Systems (https://web.archive.org/web/20070605092733/http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf)
 * The Mathematical Theory of Communication (https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+
+## Some concepts
+
+* Self-Information
+
+* Entropy
+
+* Mutual Information
+
+* Conditional Entropy
+
+* Kullback-Leibler Divergence
+
+* Binary Cross Entropy
+
+* Multiclass Cross Entropy
