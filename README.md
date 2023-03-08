@@ -2,6 +2,6 @@
 
 * Invented by Claude Shannon
 
-![shannon](shannon.png)
+![shannon](shannon.gif)
 
 * Information theory 
