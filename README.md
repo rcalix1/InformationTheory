@@ -6,6 +6,8 @@
 
 * Information theory: Shannon discovered these formulas about information transmission. Such as how many bits per second should be able to transfer over various media. Coined the term "bit".
 
+* Laid ground work to switch analog to digital communication. Bell phones systems analog communication were degraded over long distances and noise was amplified by repeaters. By switching to digital, bell implemented a type of digital repeater that reduced degradation of signal. 
+
 * Shannon entropy or level of surprise in a message/communication
 
 ## Shannon works
