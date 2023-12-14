@@ -6,4 +6,5 @@
 
 * https://www.yacinemahdid.com/shannon-entropy-from-theory-to-python/
 * http://biopython.org/DIST/docs/tutorial/Tutorial.html#htoc303
+* https://www.hdm-stuttgart.de/~maucher/Python/MMCodecs/html/basicFunctions.html
 * 
