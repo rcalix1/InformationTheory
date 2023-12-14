@@ -9,4 +9,5 @@
 * https://www.hdm-stuttgart.de/~maucher/Python/MMCodecs/html/basicFunctions.html
 * https://medium.com/@tejpal.abhyuday/information-theory-explained-for-machine-learning-a1bd8e7cd242
 * https://www.shiksha.com/online-courses/articles/info-entropy-in-information-theory/
+* https://sandipanweb.wordpress.com/2017/05/27/some-image-processing-information-and-coding-theory/
 * 
