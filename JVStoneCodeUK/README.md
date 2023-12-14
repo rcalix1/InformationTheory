@@ -19,4 +19,11 @@
 ## Information theory and LLMs
   
 * https://www.linkedin.com/pulse/large-language-models-gpt-information-theory-hidalgo-landa-citp-mbcs/
+* https://medium.com/ontologik/large-language-models-and-what-information-theory-tells-us-about-the-evolution-of-langauge-13458349b8c8
+* https://www.kolena.com/blog/how-to-validate-openai-gpt-model-performance-with-text-summarization
+* https://thegradient.pub/understanding-evaluation-metrics-for-language-models/
+* https://www.linkedin.com/pulse/claude-shannons-information-theory-language-models-luis-lastras/
+* https://www.mdpi.com/2227-7390/11/10/2320
+* https://towardsdatascience.com/perplexity-of-language-models-revisited-6b9b4cf46792
+* https://jbconsulting.substack.com/p/its-not-just-statistics-gpt-4-does
 * 
