@@ -11,4 +11,8 @@
 * https://www.shiksha.com/online-courses/articles/info-entropy-in-information-theory/
 * https://sandipanweb.wordpress.com/2017/05/27/some-image-processing-information-and-coding-theory/
 * https://iopscience.iop.org/article/10.1088/1742-6596/2339/1/012011/pdf
+* https://github.com/cheuktingli/psitip
+* https://machinelearningmastery.com/what-is-information-entropy/
+* https://hadrienj.github.io/posts/Essential-Math-information_theory/
+* https://medium.com/@shelvia1039/essential-ingredients-of-information-theory-with-python-code-35b771892bd5
 * 
