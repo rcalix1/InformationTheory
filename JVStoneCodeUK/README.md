@@ -15,4 +15,8 @@
 * https://machinelearningmastery.com/what-is-information-entropy/
 * https://hadrienj.github.io/posts/Essential-Math-information_theory/
 * https://medium.com/@shelvia1039/essential-ingredients-of-information-theory-with-python-code-35b771892bd5
+
+## Information theory and LLMs
+  
+* https://www.linkedin.com/pulse/large-language-models-gpt-information-theory-hidalgo-landa-citp-mbcs/
 * 
