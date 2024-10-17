@@ -53,4 +53,5 @@
 * For a distribution of probabilities (p1, p2, ..., pN), the entropy is:
 * = p1 * log(p1) -p2 * log(p2) ... -pN * log(pN)
 * Here log is the "binary logarithm"
+* Entropy of a coin toss (1/2, 1/2) -> -(1/2) * log(1/2) - (1/2) * log(1/2) = 1/2 + 1/2 = 1 bit
 * 
