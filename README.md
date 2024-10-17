@@ -51,5 +51,5 @@
 * You can think of Entropy as the amount of surprise found from a process.
 * The higher the entropy, the less the certainty you have in the result
 * For a distribution of probabilities (p1, p2, ..., pN), the entropy is:
-* pp1 * log(p1) -p2*log(p2) ... -pN*log(pN)
+* p1 * log(p1) -p2 * log(p2) ... -pN * log(pN)
 * 
