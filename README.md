@@ -39,3 +39,8 @@
 * The bit lenght of the number N is: n = log2 N
 * By the basic definition of logarithms this is equivalent as such: N = 2**n
 * 
+
+## Models
+
+* Hopfield
+* Boltzman Machines 
