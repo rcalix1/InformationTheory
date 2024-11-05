@@ -42,8 +42,8 @@
 
 ## Models
 
-* Hopfield
-* Boltzman Machines
+* Hopfield Networks (associative memory networks)
+* Boltzman Machines and Restricted Boltzman Machines
 
 ## Entropy
 
