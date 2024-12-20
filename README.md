@@ -40,10 +40,24 @@
 * By the basic definition of logarithms this is equivalent as such: N = 2**n
 * 
 
-## Models
 
-* Hopfield Networks (associative memory networks)
-* Boltzman Machines and Restricted Boltzman Machines
+
+## Hopfield Networks (associative memory networks)
+  
+Hopfield Networks have intrinsic links to information theory because of how they store and retrieve information:
+
+Memory Capacity and Information Storage
+
+Memory Capacity: Hopfield Networks can store about 
+0.15×N
+0.15×N binary patterns for a network with N neurons without significant error (proven using statistical mechanics principles).
+This capacity limit is connected to Shannon’s channel capacity in information theory, which defines the maximum rate of reliable information transmission.
+
+Information Density: The efficiency of information storage and retrieval in Hopfield Networks can be analyzed using entropy and mutual information metrics.
+
+## Boltzman Machines and Restricted Boltzman Machines
+
+* link
 
 ## Entropy
 
