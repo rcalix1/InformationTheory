@@ -55,9 +55,11 @@ This capacity limit is connected to Shannon’s channel capacity in information 
 
 Information Density: The efficiency of information storage and retrieval in Hopfield Networks can be analyzed using entropy and mutual information metrics.
 
+* https://www.pnas.org/doi/abs/10.1073/pnas.79.8.2554
+
 ## Boltzman Machines and Restricted Boltzman Machines
 
-* link
+* [link](https://www.sciencedirect.com/science/article/pii/S0364021385800124)
 
 ## Entropy
 
