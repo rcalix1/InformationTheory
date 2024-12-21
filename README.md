@@ -59,7 +59,7 @@ Information Density: The efficiency of information storage and retrieval in Hopf
 
 ## Boltzman Machines and Restricted Boltzman Machines
 
-* [link](https://www.sciencedirect.com/science/article/pii/S0364021385800124)
+* [paper](https://www.sciencedirect.com/science/article/pii/S0364021385800124)
 
 ## Entropy
 
