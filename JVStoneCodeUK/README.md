@@ -1,3 +1,8 @@
+
+## Videos
+
+* https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6
+
 ## Code from JV Stone Book
 
 * Source: http://jim-stone.staff.shef.ac.uk/BookInfoTheory/InfoTheoryPython.html
