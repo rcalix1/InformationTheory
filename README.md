@@ -43,6 +43,8 @@
 
 
 ## Hopfield Networks (associative memory networks)
+
+* https://www.youtube.com/watch?v=IP3W7cI01VY
   
 Hopfield Networks have intrinsic links to information theory because of how they store and retrieve information:
 
